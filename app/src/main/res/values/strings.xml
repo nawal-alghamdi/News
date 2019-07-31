@@ -1,0 +1,49 @@
+<resources>
+    <!--App name-->
+    <string name="app_name">News</string>
+
+    <!--Favorite Activity name to be displayed in the app-->
+    <string name="favorite_activity_name">Favorite News</string>
+
+    <!--News image content description-->
+    <string name="news">News</string>
+
+    <!--Favorite button content description-->
+    <string name="add_news_to_favorite">Add news to favorite</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="please_connect_to_the_internet">Please connect to the internet</string>
+
+    <!--  Label for app bar favorite icon [CHAR LIMIT=NONE] -->
+    <string name="favorite">Favorite</string>
+    <!-- Favorite Activity Title [CHAR LIMIT=NONE] -->
+    <string name="favorite_title">Favorite News</string>
+
+    <!--Favorite Widget-->
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favorite_news">Favorite News</string>
+
+    <!--This message will be displayed if the user has not added any news to the favorite-->
+    <string name="favorite_empty_text">Favorite is empty. You need to add news to your favorite</string>
+
+    <!--Used to conjunct authors if there is more than one author-->
+    <string name="comma">, </string>
+
+    <!--Api key to get the news from the guardian API-->
+    <string name="api_key" translatable="false"></string>
+
+    <!--error message that will be shown if something went wrong-->
+    <string name="error_message">An error has occurred. Please try again.</string>
+
+    <!--Message that will be shown if the news saved to Favorite News realtime database-->
+    <string name="news_saved_to_favorite">News saved to favorite.</string>
+
+    <!--Message that will be shown if the news already exists in Favorite News realtime database-->
+    <string name="news_already_exists">News already exists.</string>
+
+    <!--Sample test ad unit ID for banner ad-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+</resources>
